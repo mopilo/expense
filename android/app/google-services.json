@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041644657772",
+    "firebase_url": "https://splitter-6cfbe.firebaseio.com",
+    "project_id": "splitter-6cfbe",
+    "storage_bucket": "splitter-6cfbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041644657772:android:a8f91f62fa0d531ab4cc49",
+        "android_client_info": {
+          "package_name": "com.mopilo.expense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041644657772-2fatbsks3p71d4af9ruqbu2j0asaeaoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuN1ZtooNJgSO-_DM2Z9fRHR1VG1LWd1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041644657772-2fatbsks3p71d4af9ruqbu2j0asaeaoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
